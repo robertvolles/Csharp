@@ -1,0 +1,7 @@
+C:\Benner\Stag004\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Benner\Stag004\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Benner\Stag004\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Benner\Stag004\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Benner\Stag004\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Benner\Stag004\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Benner\Stag004\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
